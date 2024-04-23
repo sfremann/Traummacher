@@ -78,3 +78,9 @@ A blue glow will show when it is possible to interact with an object. When you a
 ![image](ReadMeRessources/OpenDoor.png)
 
 If you press Esc you will have the possibility to close the game or resume playing.
+
+---
+
+## Related Work
+
+VR experience based on the same topic using most of this project's assets but with differences in gameplay and storytelling: https://github.com/sfremann/Traumer
