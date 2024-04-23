@@ -65,6 +65,8 @@ Sarah Frémann & Victor Billaud
 > [!NOTE] 
 > Most models and sounds are free-to-use assets we found on Unity Asset Store, Pixabay, Sketchfab, Poly Haven. 
 
+[![Watch the video](ReadMeRessources/preview.png)](ReadMeRessources/DevNote.mp4)
+
 ---
 
 ## How to use
