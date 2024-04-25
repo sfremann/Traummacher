@@ -1,5 +1,7 @@
 # Traummacher
 
+*Winter 2023*
+
 [![Watch the video](ReadMeRessources/preview.png)](ReadMeRessources/Trailer.mp4)
 
 ## Concept
@@ -18,7 +20,8 @@ _Traummacher_ is an immersive experience in a 3D environment where the player em
 
 ## Credits
 
-Sarah Frémann & Victor Billaud
+- Sarah Frémann (https://github.com/sfremann)
+- Victor Billaud (https://github.com/victr-bld)
 
 <details>
   <summary>Details</summary>
@@ -53,7 +56,7 @@ Sarah Frémann & Victor Billaud
 </details>
 
 <details>
-  <summary>Technologies & ressources</summary>
+  <summary>Technologies & resources</summary>
 
   - Unity 2021.3.25
   - Audacity
