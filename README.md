@@ -2,7 +2,7 @@
 
 *Project Date: Winter 2023*
 
-![image](ReadMeRessources/preview.png)
+![image](ReadMeResources/preview.png)
 
 https://github.com/sfremann/Traummacher/assets/156663748/d2997ea4-2e51-4fcf-95b6-78f3a2879c54
 
@@ -73,11 +73,11 @@ You can move inside the game using `ZQSD`. You can reorient the camera with the 
 
 A blue glow will show when it is possible to interact with an object. When you are close enough to an interactible object a hand cursor will appear and you will be able to interact with a mouse `left click`. Then text related to the object will be displayed, sometimes a special menu will appear giving the player a choice to make. Use directional up and down arrow keys to navigate between the possibilities in the menu and press Enter to validate your choice. The options you pick will have an impact on the character's past. After making a choice the door to the next room will open and you can continue your way into the game.
 
-![image](ReadMeRessources/InteractionHandCursor.png)
+![image](ReadMeResources/InteractionHandCursor.png)
 
-![image](ReadMeRessources/ChoiceMenu.png)
+![image](ReadMeResources/ChoiceMenu.png)
 
-![image](ReadMeRessources/OpenDoor.png)
+![image](ReadMeResources/OpenDoor.png)
 
 If you press `Esc` you will have the possibility to close the game or resume playing.
 
@@ -87,11 +87,11 @@ https://github.com/sfremann/Traummacher/assets/156663748/0563181e-b66a-4ec3-bed4
 
 The project is divided into rooms. The only active room is the one the user is currently in. Transitions between rooms is handled through movement and triggers. When the user enters another room, the door closes and the previous room is disabled.
 
-![image](ReadMeRessources/AppartmentPlan.png)
+![image](ReadMeResources/AppartmentPlan.png)
 
 Some other interactions and transitions are handled the same way. Below for example, when the user passes below the light, it buzzes.
 
-![image](ReadMeRessources/SoundInteraction.png)
+![image](ReadMeResources/SoundInteraction.png)
 
 Interaction with glowing objects will usually trigger a dreamlike sequence.
 
