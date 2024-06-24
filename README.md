@@ -2,21 +2,27 @@
 
 *Project Date: Winter 2023*
 
+## Summary
+
 ![image](ReadMeResources/preview.png)
 
 https://github.com/sfremann/Traummacher/assets/156663748/d2997ea4-2e51-4fcf-95b6-78f3a2879c54
 
+“What happened? I can’t remember. I think I lost something… or someone.” 
+
+Play as an amnesiac character, explore their apartment to help them retrieve their memories of loss and face grief. Your choices will influence their memories, and their past.
+
 ## Concept
 
-_Traummacher_ is an immersive experience in a 3D environment where the player embodies a character suffering from amnesia regarding the loss of a loved one. By putting themselves in the shoes of this character, the player can gradually discover their memories and remember with them the origin and nature of their grief. The experience is very metaphorical and pictorial, and is therefore subject to interpretation.
+_Traummacher_ is an immersive experience in a 3D environment following a character suffering from amnesia after the loss of a loved one. By putting themselves in the shoes of this character, the player can gradually help them retrieve their memories and face their grief. The experience is very metaphorical and pictorial, and is therefore subject to interpretation.
 
-*Traummacher* is a small game developed as part of a course on media and interactivity in winter 2023 at our university *Université de Technologie de Compiègne*. Our idea was to broach the topic of grief through an immersive game where the player's choices would impact the character's past history. We wanted to create an immersive experience with dreamlike sequences, using sound and visual ambiance to accompany the development of the story and introduce feelings.
+_Traummacher_ is a small game developed as part of a course on media and interactivity in winter 2023 at our university _Université de Technologie de Compiègne_. Our idea was to broach the topic of grief through an immersive game where the player's choices would impact the character's past history. We wanted to create an immersive experience with dreamlike sequences, using sound and visual ambiance to deliver the story and trigger emotions.
 
 > [!NOTE]  
 > Being a university project this experience is not 100% finished nor optimised.
 
 > [!NOTE] 
-> VR experience based on the same topic using most of this project's assets but with differences in gameplay and storytelling: [*Traumer*](https://github.com/sfremann/Traumer)
+> We also made a VR experience based on the same topic using most of this project's assets but with differences in gameplay and storytelling: [*Träumer*](https://github.com/sfremann/Traumer)
 
 ---
 
@@ -28,35 +34,26 @@ _Traummacher_ is an immersive experience in a 3D environment where the player em
 ### ◻️ Design & Writing
   
 - **Scenario:** Sarah Frémann & Victor Billaud
-- **Design of the appartment:** Sarah Frémann & Victor Billaud
+- **Level design:** Sarah Frémann & Victor Billaud
+- **Branching narrative:** Sarah Frémann & Victor Billaud
 
 ### ◻️ Programming & Engineering
 
-- **Basic gameplay / direct interaction:** mostly Victor Billaud with help from Sarah Frémann
-- **More complex interaction:** Sarah Frémann & Victor Billaud
-- **Environment behavior:** mostly Sarah Frémann with help from Victor Billaud
-- **Putting things together / Solving conflict:** mostly Sarah Frémann with help from Victor Billaud
-- **Testing / Debug:** Sarah Frémann & Victor Billaud
+- **Player input (movement & choice):** mostly Victor Billaud with help from Sarah Frémann
+- **Environment mechanics:** mostly Sarah Frémann with help from Victor Billaud
+- **Project architecture, integration & debug:** mostly Sarah Frémann with help from Victor Billaud
 
 ### ◻️ Visuals
 
-- **Effects & transitions / shaders:** Sarah Frémann
-- **Environment & light:** Sarah Frémann
+- **VFX, light, environment & camera effects:** Sarah Frémann
 
 ### ◻️ Audio 
 
 - **Sound selection:** mostly Victor Billaud with help from Sarah Frémann
-- **Effects & transitions:** Sarah Frémann & Victor Billaud
+- **Sound integration:** Sarah Frémann & Victor Billaud
 
-<details>
-  <summary>Technologies & resources</summary>
-
-  - Unity 2021.3.25
-  - Audacity
-  - paint.net
-  - Inky
-  - Blender
-</details>
+> [!NOTE] 
+> Technologies & resources: Unity 2021.3.25, Audacity, paint.net, Ink, Blender, DaVinci Resolve.
 
 > [!NOTE] 
 > Most models and sounds are free-to-use assets we found on Unity Asset Store, Pixabay, Sketchfab, Poly Haven. 
